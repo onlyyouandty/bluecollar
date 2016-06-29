@@ -1,0 +1,1 @@
+Procfile bundle exec rails server -p
